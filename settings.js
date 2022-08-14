@@ -12,33 +12,33 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['989175142780']
+global.premium = ['989175142780']
+global.ownernomer = '989175142780'
 global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.botname = '[🇱🇰SATA 𝛃𝚯𝚪🤘]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCgwWV1Cya4_gUFKYOQYQtHw'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.ig = 'wa.me/989175142780'
+global.sc = 'wa.me/989175142780'
+global.myweb = 'wa.me/989175142780'
+global.packname = '[🇱🇰SATA 𝛃𝚯𝚪🤘]'
 global.author = 'ШHłТΞ HΛϾКΞЯS'
-global.sessionName = 'session'
+global.sessionName = 'جلسه'
 global.region = 'Sri Lanka'
 global.reactmoji = '🎭'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'انجام شد,
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    botAdmin: 'ربات را ابتدا ادمین کنید,
+    owner: 'فقط مالک ربات میتواند از این دستور استفاده کند!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: '⏳ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    wait: '⏳لطفا صبر  کنید,
+    error: 'خطا! Maybe Api Key Is Expired🤔!',
+    endLimit: 'Your Daily لیمیت خورده است Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
